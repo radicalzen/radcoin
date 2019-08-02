@@ -1,4 +1,4 @@
-# radcoin
+# RadCoin
 
 Radcoin is a cryptocurrency designed to make money virtual. 
 
