@@ -1,0 +1,5 @@
+#RadCoin follows three simple crypto operations for each transaction
+
+#1) Hash
+#2) Sign
+#3) Encrypt
